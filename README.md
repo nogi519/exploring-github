@@ -1,6 +1,7 @@
 # exploring-github
 ### git 및 github 공부용
 - github docs: https://docs.github.com/en
+  - GitHub Student Developer Pack: https://education.github.com/pack
 - 인프런
   - Git과 GitHub 시작하기: https://www.inflearn.com/course/git-and-github/dashboard
   - 버전 관리 시스템 Git: https://www.inflearn.com/course/git-2/dashboard
